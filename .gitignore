@@ -1,0 +1,63 @@
+# QuestaSim / ModelSim
+work/
+transcript
+vsim.wlf
+*.wlf
+*.vcd
+*.vpd
+*.ucdb
+*.ucdb.*
+modelsim.ini
+questa.ini
+*_lib/
+*.qdb
+*.qpg
+
+# Xilinx ISE / XST generated files
+xst/
+_xmsgs/
+xlnx_auto_*
+*.ngc
+*.ngd
+*.ncd
+*.pcf
+*.par
+*.bld
+*.mrp
+*.srp
+*.syr
+*.ngr
+*.xrpt
+*.jou
+*.cmd
+*.stx
+*.wdb
+*.wcfg
+*.bit
+*.mcs
+*.prm
+*.drc
+*.unroutes
+
+# Vivado generated files
+.Xil/
+*.runs/
+*.sim/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.gen/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.old
+*.orig
